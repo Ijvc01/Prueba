@@ -1,0 +1,15 @@
+AREA DE SISTEMAS 
+
+El área de sistemas, también conocida como el departamento de tecnologías de la información (TI), es una división dentro de una organización que se encarga de gestionar y mantener la infraestructura tecnológica. Sus responsabilidades incluyen:
+
+Gestión de la infraestructura informática: Supervisión de servidores, redes, bases de datos y otros componentes tecnológicos.
+
+Soporte técnico: Provisión de asistencia y soporte a los empleados para resolver problemas técnicos.
+
+Desarrollo y mantenimiento de software: Creación y actualización de aplicaciones y sistemas necesarios para las operaciones de la empresa.
+
+Seguridad informática: Implementación de medidas para proteger la información y los sistemas contra amenazas cibernéticas.
+
+Gestión de datos: Almacenamiento, organización y análisis de datos para apoyar la toma de decisiones.
+
+Innovación tecnológica: Investigación y adopción de nuevas tecnologías para mejorar la eficiencia y competitividad de la organización.
