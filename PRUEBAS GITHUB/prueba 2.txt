@@ -1,0 +1,7 @@
+COMO CREAR UN  HISTRIAL DE USUARIO
+
+1)Información personal: Nombre, dirección, número de contacto, correo electrónico.
+2)Historial de actividad: Registro de accesos, acciones realizadas en el sistema, modificaciones de datos.
+3)Interacciones con el soporte técnico: Incidentes reportados, soluciones implementadas.
+4)Preferencias y configuraciones: Ajustes personalizados, preferencias de notificación.
+5)Historial de compras o transacciones: Registro de compras realizadas, pagos efectuados.
